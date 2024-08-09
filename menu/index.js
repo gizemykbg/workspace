@@ -1,5 +1,5 @@
-// const SHEET_ID = CONFIG.SHEET_ID;
-// const GID = CONFIG.GID;
+const SHEET_ID = CONFIG.SHEET_ID;
+const GID = CONFIG.GID;
 
 const url = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:json&tq&gid=${GID}`;
 
